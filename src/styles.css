@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(231, 123, 150);
+}
+
+.field {
+  background-color: #fff;
+  border-radius: 7px;
+  border-color: rgb(231, 123, 150);
+  height: 30px;
+  color: rgb(231, 123, 150);
+}
+
+.search {
+  background-color: rgb(231, 123, 150);
+  border: none;
+  height: 30px;
+  border-radius: 7px;
+  color: #ffff;
+}
+
+.properties {
+  color: rgb(220, 79, 98);
+  font-weight: bold;
+}
