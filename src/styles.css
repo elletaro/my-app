@@ -8,14 +8,14 @@
   background-color: #fff;
   border-radius: 7px;
   border-color: rgb(231, 123, 150);
-  height: 30px;
+  height: 40px;
   color: rgb(231, 123, 150);
 }
 
 .search {
   background-color: rgb(231, 123, 150);
   border: none;
-  height: 30px;
+  height: 40px;
   border-radius: 7px;
   color: #ffff;
 }
